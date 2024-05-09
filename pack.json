@@ -1,0 +1,10 @@
+{
+  "name": "Citizen sleeper UI sounds",
+  "description": "Ui sounds from hit game Citizen Sleeper from Jump Over The Age.",
+  "author": "LoupAvecUnP",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
